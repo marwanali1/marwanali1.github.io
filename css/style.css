@@ -10,6 +10,12 @@ h1 {
     margin-left: 19%;
 }
 
+h2 {
+    display: block;
+    margin-top: 10px;
+    margin-left: 19%;
+}
+
 p {
     margin-left: 19%;
 }
